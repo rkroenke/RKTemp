@@ -12,7 +12,12 @@ Developer 1 making an update to file 2.
 # Developer 1 making change to file 2 on parallel feature branch.
 # 3:10pm
 
+
+# RESOLVED CHANGES - Keeping both edits and removing conflict notation.
+
 # Developer 2 makes feature8 change in file2. 
 # 4:09pm
 
+# Developer1 makes feature7 change in file2.
+# 4:06pm
 
