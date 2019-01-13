@@ -4,5 +4,11 @@ RKTemp Respository, Initial File #2
 # 01132019 110:02am
 Developer 1 making an update to file 2.
 
+# Conflict resolution. Keep both changes! 3:18pm
+
 # Developer 2, feature 6 on file2.txt
 # 3:08pm
+
+# Developer 1 making change to file 2 on parallel feature branch.
+# 3:10pm
+
